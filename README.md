@@ -7,5 +7,8 @@ A short tutorial on R to integrate loops from HiC/ HiChIP with epigentics data a
 Use the requiredPackages.R to install the packages we shall use in the analysis. The html file loop-additional-analysis.html in PALS2024 is the whole tutorial with some explanations. Please follow that.
 
 ## Toy data
-Clone or download PALS2024 to get your hands on the data that you will be wortking with
+Clone or download PALS2024 to get your hands on the data that you will be wortking with.
+
+##Additional files folder
+This folder has the raw script and the raw data  that was used to build the turial. Example output for UPSET plot, loop length and other output files are deposited in this folder.
 
