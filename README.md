@@ -17,3 +17,6 @@ Clone or download Downstream-analysis-3D-chromatin-loops to download the tutoria
 ## The additional_files folder
 This folder has the raw script and the raw data that was used to build the tutorial. Example output for UPSET plot, loop length and other output files are located in this folder.
 
+## Web resources for publicly available 3D data
+
+[4D Nucleome](https://www.4dnucleome.org/)
