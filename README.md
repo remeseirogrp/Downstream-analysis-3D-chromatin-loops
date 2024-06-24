@@ -12,9 +12,12 @@ Download the tutorial with git
 git clone https://github.com/remeseirogrp/Downstream-analysis-3D-chromatin-loops.git
 
 ```
+### Toy Data
+
+The [data_chr15.2_studentsdataframe.txt](https://github.com/remeseirogrp/Downstream-analysis-3D-chromatin-loops/blob/main/PALS2024/data_chr15.2_studentsdataframe.txt) is a dummy data created from the super H3K4me3-HiChIP loops dataset from [ChakrabortyC et al., 2023](https://www.nature.com/articles/s41467-023-41919-x).
 
 ## The additional_files folder
-This folder has the raw script and the raw data that was used to build the tutorial. Example output for UPSET plot, loop length and other output files are located in this folder.
+This folder has the script and the subsetted data that was used to build the tutorial. Example output for UPSET plot, loop length and other output files are located in this folder.
 
 ## Web resources for publicly available 3D data and tools
 
