@@ -6,6 +6,8 @@ A short tutorial on R to integrate loops from HiC/ HiChIP for further downstream
 ## Example analysis
 Use the requiredPackages.R to install the packages we shall use in the analysis. The entire tutorial with output is depicted in an HTML file called loop-additional-analysis.html in the PALS2024 folder.
 
+Download the tutorial with git
+
 ```
 git clone https://github.com/remeseirogrp/Downstream-analysis-3D-chromatin-loops.git
 
