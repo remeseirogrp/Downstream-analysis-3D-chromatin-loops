@@ -1,14 +1,14 @@
 # Downstream-analysis-3D-chromatin-loops
 Additional analysis to understand chromatin loop impact in cells
 
-A short tutorial on R to integrate loops from HiC/ HiChIP with epigentics data and nfurther downstrream analysis
+A short tutorial on R to integrate loops from HiC/ HiChIP for further downstream analysis.
 
 ## Example analysis
-Use the requiredPackages.R to install the packages we shall use in the analysis. The html file loop-additional-analysis.html in PALS2024 is the whole tutorial with some explanations. Please follow that.
+Use the requiredPackages.R to install the packages we shall use in the analysis. The entire tutorial with output is depicted in a html file called loop-additional-analysis.html in PALS2024 folder.
 
 ## Toy data
-Clone or download PALS2024 to get your hands on the data that you will be wortking with.
+Clone or download Downstream-analysis-3D-chromatin-loops to download the tutorial with installation requirements.
 
-##Additional files folder
-This folder has the raw script and the raw data  that was used to build the turial. Example output for UPSET plot, loop length and other output files are deposited in this folder.
+## Additional files folder
+This folder has the raw script and the raw data  that was used to build the turial. Example output for UPSET plot, loop length and other output files are located in this folder.
 
